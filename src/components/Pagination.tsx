@@ -4,7 +4,7 @@ export function Pagination(){
 	return(
 		<Stack direction="row" mt="8" justify="space-between" align="center" spacing="6" >
 			<Box>
-				<strong>1</strong> - <strong>10</strong> de <strong>200</strong>
+				<strong>0</strong> - <strong>10</strong> de <strong>200</strong>
 			</Box>
 			<Stack direction="row" spacing="2">
 			<Button size="sm" fontSize="xs" width="4" colorScheme="pink" disabled
