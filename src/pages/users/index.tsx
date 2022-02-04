@@ -19,7 +19,8 @@ export default function UserList(){
 						size="sm" 
 						fontSize="sm" 
 						colorScheme="pink" 
-						leftIcon={<Icon as={RiAddLine} fontSize="20"/>}>
+						leftIcon={<Icon as={RiAddLine} fontSize="20"/>}
+						href="/users/create">
 							Criar novo usuário
 						</Button>
 					</Flex>
